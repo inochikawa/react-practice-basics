@@ -1,3 +1,5 @@
+### Main goal of the project: to show examples with HOC, Render props, Fragments and Hooks.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
